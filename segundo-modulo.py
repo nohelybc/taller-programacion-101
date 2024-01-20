@@ -37,9 +37,3 @@ def suma(a, b):
     return a + b
 
 print(suma(5, 5)) # imprime 10
-
-# ejercicio 3 con funciones
-def saludo(nombre):
-    print("Hola", nombre)
-
-saludo("Juan") # imprime "Hola Juan"

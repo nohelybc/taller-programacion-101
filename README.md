@@ -1,5 +1,5 @@
 # Temario de curso
-
+---------------------
 El curso se impartirá en Python y se dividará en 3 módulos. Tiene como objetivo enseñar las habilidades necesarias para empezar a adentrarse en el mundo de la programación aplicando lógica. El objetivo del curso será desarrollar un mini proyecto, el cual será un juego de piedra-papel-tijera contra la computadora. 
 ---------------------
 - Primeros Pasos
